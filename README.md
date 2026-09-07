@@ -1,50 +1,54 @@
-# Dev Tutorial Hub
+# Beginner Python Learning Hub
 
-A beginner-friendly coding tutorial repository focused on clear explanations, small examples, and practice-oriented learning.
+A beginner-focused Python learning repository built around clear explanations, small examples, guided practice, and approachable problem-solving.
+
+## Purpose
+
+This project is designed to help new programmers build confidence with Python one concept at a time. The repository also demonstrates computer science instruction, technical communication, educational-content development, and the use of a lightweight web interface to present learning materials.
 
 ## Current Content
 
 The repository currently includes:
 
-- a small **Python Learning Hub** web prototype built with HTML, CSS, and JavaScript;
-- a **Python and Geometry** tutorial with introductory programming examples.
+- a **Beginner Python Learning Hub** web prototype;
+- a **Python and Geometry** tutorial using introductory Python examples.
 
-Additional languages and web-development topics may be added as the repository grows. They are not presented here as completed content until the corresponding tutorials are published.
+The learning content is intentionally centered on Python. HTML, CSS, and JavaScript are used only to support the presentation and interaction of the learning experience rather than as separate tutorial subjects.
 
-## Purpose
+## Beginner Python Learning Path
 
-This project is designed to:
+The project will grow gradually through beginner-level topics such as:
 
-- break technical concepts into approachable steps;
-- support beginner learners;
-- provide coding examples for study and practice;
-- demonstrate technical communication and educational-content development.
+1. Python basics and program structure
+2. Variables and data types
+3. Input and output
+4. Conditionals
+5. Loops
+6. Functions
+7. Beginner debugging and error reading
+8. Short practice exercises
+9. Simple math and geometry applications
+10. Small beginner projects
 
-## Current Learning Focus
-
-- Python fundamentals
-- Python problem-solving
-- introductory geometry with Python
-- HTML page structure
-- CSS styling
-- basic JavaScript interactivity
+Topics are added to the public repository as they are completed rather than presented as finished in advance.
 
 ## What This Repository Demonstrates
 
-- Computer Science instruction
-- Technical communication
-- Beginner-friendly documentation
-- Coding fundamentals
-- Educational content development
-- Introductory web development
+- beginner-focused Python instruction
+- computer science education
+- technical communication
+- coding fundamentals
+- educational-content development
+- practice-oriented learning design
 
-## Technologies Currently Represented
+## Technologies
 
-Python · HTML · CSS · JavaScript
+**Learning language:** Python  
+**Presentation layer:** HTML · CSS · JavaScript
 
 ## Repository Status
 
-This is an evolving tutorial project. Public documentation will be expanded as new tutorials and examples are completed.
+This is an evolving beginner Python learning project. Content and interactive practice will be expanded incrementally.
 
 ## License
 
