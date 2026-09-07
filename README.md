@@ -17,7 +17,7 @@ This project is designed to:
 
 - break technical concepts into approachable steps;
 - support beginner learners;
-- provide reusable coding examples for practice and instruction;
+- provide coding examples for study and practice;
 - demonstrate technical communication and educational-content development.
 
 ## Current Learning Focus
@@ -45,6 +45,14 @@ Python · HTML · CSS · JavaScript
 ## Repository Status
 
 This is an evolving tutorial project. Public documentation will be expanded as new tutorials and examples are completed.
+
+## License
+
+The current and future versions of this repository are provided under a **Portfolio and Educational Review License**. They are public for viewing, learning, recruiting, hiring, and professional evaluation, but are **not open source** and do not grant a general right to republish, redistribute, adapt, or incorporate the materials into another course, tutorial, application, or commercial product.
+
+Earlier versions of this repository were released under **CC0 1.0 Universal**. Because CC0 is irrevocable, those earlier versions remain subject to the terms under which they were originally released.
+
+See [LICENSE](LICENSE) for details.
 
 ## Connect
 
