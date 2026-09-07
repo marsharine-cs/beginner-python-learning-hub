@@ -1,58 +1,53 @@
 # Dev Tutorial Hub
 
-A collection of beginner-friendly coding tutorials, examples, and practice projects designed to make programming concepts easier to understand.
+A beginner-friendly coding tutorial repository focused on clear explanations, small examples, and practice-oriented learning.
 
-This repository supports hands-on learning across multiple languages and web-development fundamentals.
+## Current Content
 
-## Topics Covered
+The repository currently includes:
 
-* Python
-* Java
-* JavaScript
-* HTML
-* CSS
-* Web Development Fundamentals
+- a small **Python Learning Hub** web prototype built with HTML, CSS, and JavaScript;
+- a **Python and Geometry** tutorial with introductory programming examples.
+
+Additional languages and web-development topics may be added as the repository grows. They are not presented here as completed content until the corresponding tutorials are published.
 
 ## Purpose
 
-The goal of this repository is to:
+This project is designed to:
 
-* Break technical concepts into clear, approachable examples
-* Support beginner and intermediate learners
-* Provide reusable coding examples for practice and instruction
-* Demonstrate practical teaching and documentation skills
+- break technical concepts into approachable steps;
+- support beginner learners;
+- provide reusable coding examples for practice and instruction;
+- demonstrate technical communication and educational-content development.
 
-## Learning Focus
+## Current Learning Focus
 
-Projects and tutorials may include:
+- Python fundamentals
+- Python problem-solving
+- introductory geometry with Python
+- HTML page structure
+- CSS styling
+- basic JavaScript interactivity
 
-* Programming fundamentals
-* Variables and data types
-* Conditional logic
-* Loops and functions
-* Object-oriented programming concepts
-* HTML page structure
-* CSS styling and layout
-* JavaScript interactivity
-* Python problem-solving
-* Introductory application development
+## What This Repository Demonstrates
 
-## 🎯 What This Repository Demonstrates
+- Computer Science instruction
+- Technical communication
+- Beginner-friendly documentation
+- Coding fundamentals
+- Educational content development
+- Introductory web development
 
-* Computer Science instruction
-* Technical communication
-* Coding fundamentals
-* Educational content development
-* Beginner-friendly documentation
-* Practical programming examples
+## Technologies Currently Represented
 
-## Technologies
+Python · HTML · CSS · JavaScript
 
-Python • Java • JavaScript • HTML • CSS
+## Repository Status
+
+This is an evolving tutorial project. Public documentation will be expanded as new tutorials and examples are completed.
 
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/marsharine-a-simpson)
 
 Created by **Marsharine A. Simpson**
- 
